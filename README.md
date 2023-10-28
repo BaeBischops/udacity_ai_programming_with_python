@@ -1,6 +1,6 @@
 <h1>AI Programming with Python Nano Degree</h1>
 
-Welcome to the repository for the "AI Programming with Python Nano Degree" program by Udacity. In this repository, you will find the code, projects, and resources related to the program. Whether you're a student looking to complete the course or just interested in learning about AI and Python, this repository has something for everyone.
+Welcome to my GitHub repository showcasing the projects and coursework I've completed as part of the "AI Programming with Python Nano Degree." This repository serves as my portfolio to demonstrate my skills and knowledge in artificial intelligence, machine learning, and data science.
 
 <h3>Program Overview</h3>
 
