@@ -2,6 +2,16 @@
 
 Welcome to my GitHub repository showcasing the projects and coursework I've completed as part of the "AI Programming with Python Nano Degree." This repository serves as my portfolio to demonstrate my skills and knowledge in artificial intelligence, machine learning, and data science.
 
+<h3>Table of Contents</h3>
+<ul>
+  <li>About the Nano Degree</li>
+  <li>Projects</li>
+  <li>Skills Demonstrated</li>
+  <li>Coursework</li>
+  <li>Certification</li>
+  <li>Contact Information</li>
+</ul>
+  
 <h3>Program Overview</h3>
 
 The "AI Programming with Python Nano Degree" program is designed to provide a comprehensive introduction to the field of Artificial Intelligence using Python. The program covers various topics, including:
