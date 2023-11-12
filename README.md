@@ -46,7 +46,7 @@ If you would like to get in touch with me or learn more about my projects and ex
 <ul>
   <li><b>Email: </b> asive@baebischops.me or dr.bkzee@gmail.com</li>
   <li><b>LinkedIn: </b>  <a href="https://www.linkedin.com/in/baebischops/">Asive Bekezulu</a></li>
-  <li><b>Portfolio Website: </b><a href="baebischops.me">visit baebiachops.me</a></li>
+  <li><b>Portfolio Website: </b><a href="baebischops.me">visit baebischops.me</a></li>
 </ul>
 
 Thank you for visiting my AI Programming with Python Nano Degree portfolio repository. 
